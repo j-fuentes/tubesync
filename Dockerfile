@@ -53,6 +53,7 @@ RUN set -x && \
     python3-dev \
     gcc \
     g++ \
+    g++-aarch64-linux-gnu \
     make \
     default-libmysqlclient-dev \
     libmariadb3 \
@@ -93,6 +94,7 @@ RUN set -x && \
     python3-dev \
     gcc \
     g++ \
+    g++-aarch64-linux-gnu \
     make \
     default-libmysqlclient-dev \
     postgresql-common \
