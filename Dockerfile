@@ -1,6 +1,6 @@
 FROM debian:bullseye-slim
 
-ARG ARCH="amd64"
+ARG ARCH="armhf"
 ARG S6_VERSION="2.2.0.3"
 
 ENV DEBIAN_FRONTEND="noninteractive" \
