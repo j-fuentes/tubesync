@@ -91,7 +91,6 @@ RUN set -x && \
     python3-pip \
     python3-dev \
     gcc \
-    g++ \
     make \
     default-libmysqlclient-dev \
     postgresql-common \
