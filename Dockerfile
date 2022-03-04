@@ -93,8 +93,11 @@ RUN set -x && \
     python3-pip \
     python3-dev \
     gcc \
+<<<<<<< HEAD
     g++ \
     g++-aarch64-linux-gnu \
+=======
+>>>>>>> 2dcf82876b5f5b465b8cef20772a19c4a48b7201
     make \
     default-libmysqlclient-dev \
     postgresql-common \
