@@ -92,9 +92,9 @@ RUN set -x && \
   apt-get -y autoremove --purge \
     python3-pip \
     python3-dev \
-    gcc \
+  gcc \
     g++ \
-    g++-aarch64-linux-gnu \
+  g++-aarch64-linux-gnu \
     make \
     default-libmysqlclient-dev \
     postgresql-common \
